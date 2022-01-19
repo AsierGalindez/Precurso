@@ -16,7 +16,20 @@ namespace _16_Ejercicio_Repaso02
     {
         static void Main(string[] args)
         {
-            //Introduce tu código aquí
+            string secText;
+            int sec;
+            Console.WriteLine("dime los segundos");
+            secText = Console.ReadLine();
+            sec = Convert.ToInt32(secText);
+
+            int horas, mins, sec2;
+            horas = sec / 3600;
+            mins = (sec % 3600)/60;
+            sec2 = ((sec % 3600) % 60);
+
+            Console.WriteLine(horas + " horas," + mins + " minutos," + sec2 + " segundos.");
+
+
         }
     }
 }

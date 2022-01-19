@@ -11,7 +11,21 @@ namespace _21_Ejercicio_Repaso07
     {
         static void Main(string[] args)
         {
-            //Introduce aquí tu código
+
+
+
+
+            Random azar = new Random();
+
+            
+            {
+                Console.WriteLine(azar.Next(0, 100)); 
+            }
+
+
+         
+
+
         }
     }
 }
