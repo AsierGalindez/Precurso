@@ -1,0 +1,111 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "9fb5b83a-bce1-468f-9307-748ac75647f3": {
+      "ProjectGuid": "9fb5b83a-bce1-468f-9307-748ac75647f3",
+      "DisplayName": "01_Ejemplo_HolaMundo",
+      "ColorIndex": 0
+    },
+    "3ff06d52-e400-4ad1-b519-3c1bc686c9e8": {
+      "ProjectGuid": "3ff06d52-e400-4ad1-b519-3c1bc686c9e8",
+      "DisplayName": "02_Ejemplo_Comentarios",
+      "ColorIndex": 1
+    },
+    "5106b133-9fd6-4e72-a70b-df63cb3de0a3": {
+      "ProjectGuid": "5106b133-9fd6-4e72-a70b-df63cb3de0a3",
+      "DisplayName": "03_Ejercicio_Saludo",
+      "ColorIndex": 2
+    },
+    "a17dc44a-5c3d-428c-9956-cab995d541f5": {
+      "ProjectGuid": "a17dc44a-5c3d-428c-9956-cab995d541f5",
+      "DisplayName": "04_Ejemplo_Mostrar_Numeros",
+      "ColorIndex": 3
+    },
+    "ab9795f3-55d3-4c93-91e4-219f8db648d8": {
+      "ProjectGuid": "ab9795f3-55d3-4c93-91e4-219f8db648d8",
+      "DisplayName": "05_Ejemplo_Mostrar_Numeros_Y_Texto",
+      "ColorIndex": 4
+    },
+    "ee619f8f-ae9e-41f9-8a9b-e263369def6a": {
+      "ProjectGuid": "ee619f8f-ae9e-41f9-8a9b-e263369def6a",
+      "DisplayName": "06_Ejercicio_Mostrar_Numeros_Y_Texto",
+      "ColorIndex": 5
+    },
+    "7848bbdf-4063-4a51-a672-03fea6dd328b": {
+      "ProjectGuid": "7848bbdf-4063-4a51-a672-03fea6dd328b",
+      "DisplayName": "07_Ejemplo_Variables",
+      "ColorIndex": 6
+    },
+    "a6b0af94-060a-4117-b8e8-ea42f3133af7": {
+      "ProjectGuid": "a6b0af94-060a-4117-b8e8-ea42f3133af7",
+      "DisplayName": "08_Ejemplo_Variables_2",
+      "ColorIndex": 7
+    },
+    "81d6c785-6178-4552-ab4b-b2004150efb5": {
+      "ProjectGuid": "81d6c785-6178-4552-ab4b-b2004150efb5",
+      "DisplayName": "09_Ejemplo_Variables_3",
+      "ColorIndex": 8
+    },
+    "e26d25a2-22f4-49a5-a120-0ad9b335543c": {
+      "ProjectGuid": "e26d25a2-22f4-49a5-a120-0ad9b335543c",
+      "DisplayName": "10_Ejercicio_Variables",
+      "ColorIndex": 9
+    },
+    "bf9ef197-34f5-429e-bbd7-e5ce9a810b66": {
+      "ProjectGuid": "bf9ef197-34f5-429e-bbd7-e5ce9a810b66",
+      "DisplayName": "11_Ejemplo_Variables_Incompatibles",
+      "ColorIndex": 10
+    },
+    "22e2c9d0-404b-49fb-81e0-bfdb29b57b31": {
+      "ProjectGuid": "22e2c9d0-404b-49fb-81e0-bfdb29b57b31",
+      "DisplayName": "12_Ejemplo_Input",
+      "ColorIndex": 11
+    },
+    "910dd469-ecbc-4034-985c-67201b1019d5": {
+      "ProjectGuid": "910dd469-ecbc-4034-985c-67201b1019d5",
+      "DisplayName": "13_Ejemplo_Input_Numerico",
+      "ColorIndex": 12
+    },
+    "33f69349-3af3-4b86-aa3b-31ef1f44f9af": {
+      "ProjectGuid": "33f69349-3af3-4b86-aa3b-31ef1f44f9af",
+      "DisplayName": "14_Ejercicio_Input",
+      "ColorIndex": 13
+    },
+    "de1fe34b-43db-42ff-a4ba-db8d8055b73c": {
+      "ProjectGuid": "de1fe34b-43db-42ff-a4ba-db8d8055b73c",
+      "DisplayName": "15_Ejercicio_Repaso01",
+      "ColorIndex": 14
+    },
+    "e919a85d-bab3-42e3-9ea8-ac906812eb25": {
+      "ProjectGuid": "e919a85d-bab3-42e3-9ea8-ac906812eb25",
+      "DisplayName": "16_Ejercicio_Repaso02",
+      "ColorIndex": 15
+    },
+    "245679f2-eb23-417e-96e7-b804f3009ae8": {
+      "ProjectGuid": "245679f2-eb23-417e-96e7-b804f3009ae8",
+      "DisplayName": "17_Ejercicio_Repaso03",
+      "ColorIndex": 0
+    },
+    "da6770bd-0d54-4a07-93da-f863c719c3a8": {
+      "ProjectGuid": "da6770bd-0d54-4a07-93da-f863c719c3a8",
+      "DisplayName": "18_Ejercicio_Repaso04",
+      "ColorIndex": 1
+    },
+    "8b20cbb4-e86d-4efe-ac39-cff152840cb3": {
+      "ProjectGuid": "8b20cbb4-e86d-4efe-ac39-cff152840cb3",
+      "DisplayName": "19_Ejercicio_Repaso05",
+      "ColorIndex": 2
+    },
+    "b95bd1eb-de6b-41f0-bb41-4707a77920c2": {
+      "ProjectGuid": "b95bd1eb-de6b-41f0-bb41-4707a77920c2",
+      "DisplayName": "20_Ejercicio_Repaso06",
+      "ColorIndex": 3
+    },
+    "d0aaa49e-f5b6-4211-a80a-1370434980c6": {
+      "ProjectGuid": "d0aaa49e-f5b6-4211-a80a-1370434980c6",
+      "DisplayName": "21_Ejercicio_Repaso07",
+      "ColorIndex": 4
+    }
+  },
+  "NextColorIndex": 5
+}
